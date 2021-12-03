@@ -1,8 +1,7 @@
 # duplicate-mfe-issue
 
 ## The Setup
-Visualization:
-![image](https://user-images.githubusercontent.com/3267412/144610674-28875689-457d-4130-bfb2-209c16195ab6.png)
+![image](https://user-images.githubusercontent.com/3267412/144610993-e7e2aa15-6ce7-4c0e-8efa-08ebdeb78f9f.png)
 
 
 ### mfe-button
